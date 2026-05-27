@@ -21,4 +21,4 @@ Images :
 Contact :- 
     Discord : - 
          DM - ancient_terrestrialX2
-         Server - (Failed To Find A Purpose)[https://discord.gg/khg7kvwaYX]
+         Server - [Failed To Find A Purpose](https://discord.gg/khg7kvwaYX)
