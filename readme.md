@@ -11,13 +11,15 @@ Purpose :-
         4. redoes color pallet of discord
         5. pixel font
 
+```
 How to use :-
     0. download and extract the repo in a folder 
-    1. go to [chrome://extension] of any chromium based browser , eg - brave , edge , chrome , helium
-    2. enable "developed mode"
+    1. go to [chrome://extension] of any chromium based browser , eg - brave , edge , chrome , helium .
+    2. enable "developed mode" .
     3. click on load unpacked
     4. selected the folder in which you have extracted the zip file of this repo
     5. boom , done , (refresh the extension js in case)
+```
 
 Images : 
 
