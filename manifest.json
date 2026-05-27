@@ -3,6 +3,10 @@
   "name": " UI Restyler",
   "version": "1.0",
   "description": "Applies a custom stylesheet to dc Web.",
+  "action": {
+    "default_popup": "extension.html",
+    "default_title": "UI Restyler"
+  },
   "content_scripts": [
     {
       "matches": [
