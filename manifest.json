@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": " UI Restyler",
+  "version": "1.0",
+  "description": "Applies a custom stylesheet to dc Web.",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://discord.com/channels/*",
+        "https://discord.com/app"
+      ],
+      "css": ["index.css"],
+      "run_at": "document_start"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["background1.png" , "pixel.ttf"],
+      "matches": ["https://discord.com/*"]
+    }
+  ]
+}

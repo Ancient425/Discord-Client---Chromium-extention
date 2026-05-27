@@ -1,0 +1,115 @@
+@font-face {
+    font-family: 'Minecraft';
+    src: url('chrome-extension://__MSG_@@extension_id__/pixel.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+[class^="trailing_"] {
+    position: absolute !important;
+    top: 10px !important;
+    right: 30px !important;
+    padding: 10px !important;
+    backdrop-filter: blur(20px) !important;
+    z-index: 10000 !important;
+    border-radius: 50px;
+}
+
+[class^="scrollerContent_"] {
+    background: url("chrome-extension://__MSG_@@extension_id__/background1.png") !important;
+    background-size: cover !important;
+    background-repeat: repeat !important;
+    background-position: center !important;
+    background-color: transparent !important;
+    /* Forces any default color out */
+}
+
+[class^="scrollerInner_"] {
+    backdrop-filter: blur(20px) brightness(95%) !important;
+}
+
+[class^="title_c"] {
+    display: none !important;
+}
+
+[class^="title_f"] {
+    background: linear-gradient(90deg, #3d5cc0 25%, #151f42 50%) !important;
+}
+
+[class^="toolbar_9"]* {
+    box-shadow: none !important;
+    background: #000 !important;
+}
+
+[class^="members_"] {
+    /* background:radial-gradient(circle at 50% 50%, #3d5cc07e, #151f427f) !important; */
+    background: linear-gradient(#2437c614 60%, #2437c6e6) !important;
+    border-radius: 0px !important;
+}
+
+[class^="member_"] > div {
+    margin: 5px 10px !important;
+}
+
+[class^="container_91"]{
+    border-radius :0px !important;
+}
+
+[class^="message_5"]:hover {
+    background-color: rgba(255, 0, 25, 0.322) !important;
+}
+
+[class^="panels_"] {
+    background: #1A152E !important;
+}
+
+[class^="scroller_"] {
+    background: #25185a !important;
+}
+
+[class^="channelBottomBarArea_"]* {
+    background: #2437c67a !important;
+    font-family: "cascadia code" !important;
+}
+
+[class^="channelTextArea_"] {
+    background: #2437c67a !important;
+    font-family: "cascadia code" !important;
+}
+
+[class^="username_"]{
+    font-family: 'Minecraft', 'Press Start 2P', monospace !important;
+    font-weight: 600 !important;
+    letter-spacing: 1.75px !important;
+}
+
+[class^="searchBar_"] {
+    background: #25185a  !important;
+}
+
+[class^="searchBar_c"] {
+    background:  #1A152E !important;
+    color: #fff !important;
+}
+
+[class^="children_9"]{
+    background: #1A152E !important;
+}
+
+[class^="contentRegionScroller__"] {
+    background: #25185a !important;
+}
+
+[class^="iconWrapper_"] {
+    color:#000 !important;
+    background: #000 !important;
+    border-top-right-radius: 5px !important;
+    border-bottom-right-radius: 5px !important;
+    box-shadow: -12px 0px 0px #000 !important;
+}
+
+[class^="childContainer_"] {
+    border:#000 1px #1A152E !important;
+}
+
