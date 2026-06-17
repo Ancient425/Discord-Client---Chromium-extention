@@ -28,7 +28,3 @@ Images :
 <img width="1841" height="935" alt="image" src="https://github.com/user-attachments/assets/e1a74066-e425-420a-836e-779da1d47ab4" />
 
 
-Contact :- 
-    Discord : - 
-         DM - ancient_terrestrialX2
-         Server - [Failed To Find A Purpose](https://discord.gg/khg7kvwaYX)
