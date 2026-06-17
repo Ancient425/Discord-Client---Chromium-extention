@@ -113,3 +113,6 @@
     border:#000 1px #1A152E !important;
 }
 
+[class^="chatHeaderBar_"] {
+    background: #1a152e !important;
+}
